@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+  <book>
+    <book_id>b001</book_id>
+    <title>Introduction to Algorithms</title>
+    <author>Thomas H. Cormen</author>
+    <category>DSA</category>
+    <price>1299</price>
+    <img>assets/static/books-images/b001.jpg</img>
+  </book>
+  <book>
+    <book_id>b002</book_id>
+    <title>Machine Learning using Python</title>
+    <author>Dinesh Pradhan</author>
+    <category>Data Science</category>
+    <price>534</price>
+    <img>assets/static/books-images/b002.jpg</img>
+  </book>
+  <book>
+    <book_id>b003</book_id>
+    <title>Python Crash Course</title>
+    <author>Eric Metthes</author>
+    <category>Programming Language</category>
+    <price>1269</price>
+    <img>assets/static/books-images/b003.jpg</img>
+  </book>
+  <book>
+    <book_id>b004</book_id>
+    <title>Blockchain Basics: A Non-Technical Introduction in 25 Steps</title>
+    <author>Daniel Drescher</author>
+    <category>Blockchain</category>
+    <price>720</price>
+    <img>assets/static/books-images/b004.jpg</img>
+  </book>
+  <book>
+    <book_id>b005</book_id>
+    <title>Art of Computer Programming</title>
+    <author>Donald Knuth</author>
+    <category>DSA</category>
+    <price>2126</price>
+    <img>assets/static/books-images/b005.jpg</img>
+  </book>
+  <book>
+    <book_id>b006</book_id>
+    <title>Data Science from Scratch</title>
+    <author>Steven Cooper</author>
+    <category>Data Science</category>
+    <price>205</price>
+    <img>assets/static/books-images/b006.jpg</img>
+  </book>
+  <book>
+    <book_id>b007</book_id>
+    <title>Core Python Programming</title>
+    <author>R Nageswara Rao</author>
+    <category>Programming Language</category>
+    <price>661</price>
+    <img>assets/static/books-images/b007.jpg</img>
+  </book>
+  <book>
+    <book_id>b008</book_id>
+    <title>The Truth Machine: The Blockchain and the Future of Everything</title>
+    <author>Paul Vigna, Michael J. Casey</author>
+    <category>Blockchain</category>
+    <price>1093</price>
+    <img>assets/static/books-images/b008.jpg</img>
+  </book>
+  <book>
+    <book_id>b009</book_id>
+    <title>Data Structures and Algorithms Made Easy</title>
+    <author>Narasimha Karumanchi</author>
+    <category>DSA</category>
+    <price>650</price>
+    <img>assets/static/books-images/b009.jpg</img>
+  </book>
+  <book>
+    <book_id>b010</book_id>
+    <title>Business Analytics: The Science of Data - Driven Decision Making</title>
+    <author>U. Dinesh Kumar</author>
+    <category>Data Science</category>
+    <price>635</price>
+    <img>assets/static/books-images/b010.jpg</img>
+  </book>
+  <book>
+    <book_id>b011</book_id>
+    <title>R for data science</title>
+    <author>Hadley Wickham, Garrett Grolemund</author>
+    <category>Programming Language</category>
+    <price>2669</price>
+    <img>assets/static/books-images/b011.jpg</img>
+  </book>
+  <book>
+    <book_id>b012</book_id>
+    <title>Basic Blockchain</title>
+    <author>David Shrier</author>
+    <category>Blockchain</category>
+    <price>391</price>
+    <img>assets/static/books-images/b012.jpg</img>
+  </book>
+  <book>
+    <book_id>b013</book_id>
+    <title>Data Structures &amp; Algorithms in Java</title>
+    <author>Goodrich, Tarassia, Goldwasser</author>
+    <category>DSA</category>
+    <price>779</price>
+    <img>assets/static/books-images/b013.jpg</img>
+  </book>
+  <book>
+    <book_id>b014</book_id>
+    <title>Data Science for Business</title>
+    <author>Foster Provost</author>
+    <category>Data Science</category>
+    <price>950</price>
+    <img>assets/static/books-images/b014.jpg</img>
+  </book>
+  <book>
+    <book_id>b015</book_id>
+    <title>Basic Computation and Programming with C</title>
+    <author>Subrata Saha, Subhodip Mukharjee</author>
+    <category>Programming Language</category>
+    <price>455</price>
+    <img>assets/static/books-images/b015.jpg</img>
+  </book>
+  <book>
+    <book_id>b016</book_id>
+    <title>Blockchain Revolution</title>
+    <author>Don Tapscott, Alex Tapscott</author>
+    <category>Blockchain</category>
+    <price>1262</price>
+    <img>assets/static/books-images/b016.jpg</img>
+  </book>
+</books>
