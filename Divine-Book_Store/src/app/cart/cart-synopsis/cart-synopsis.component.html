@@ -1,0 +1,29 @@
+<mat-card class = "dp-cart-synopsis mat-elevation-z8">
+    <mat-card-content>
+      <mat-list role = "list">
+        <mat-list-item role = "listItem">
+          <span> Items ({{ cartItemsCount | async }}) </span>
+          <span class = "spacer"></span>
+          <span> {{ cartSubTotal | async | currency:'INR' }} </span>
+        </mat-list-item>
+        <mat-list-item role = "listItem">
+          <span> Delivery Charge </span>
+          <span class = "spacer"></span>
+          <span> {{ deliveryCharge | async | currency:'INR' }} </span>
+        </mat-list-item>
+        <mat-list-item role = "listItem">
+          <span> Estimated-Tax </span>
+          <span class = "spacer"></span>
+          <span> {{ gstCharge | async | currency:'INR' }} </span>
+        </mat-list-item>
+        <mat-divider></mat-divider>
+        <br>
+        <mat-list-item role = "listItem">
+          <span class = "mat-title"> Total Amount </span>
+          <span class = "spacer"></span>
+          <span class = "mat-title"> {{ totalAmount | async | currency:'INR' }} </span>
+        </mat-list-item>
+      </mat-list>
+    </mat-card-content>
+  </mat-card>
+  

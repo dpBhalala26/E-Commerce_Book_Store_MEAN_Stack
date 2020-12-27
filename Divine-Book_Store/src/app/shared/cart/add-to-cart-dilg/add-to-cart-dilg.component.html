@@ -1,0 +1,27 @@
+<div mat-dialog-container>
+    <h1>{{ cartItem.quantity }} Item/s added in cart </h1>
+    <div mat-dialog-content>
+      <div class = "dp-dilg-row">
+        <img mat-card-image src = "{{ cartItem.img }}" alt = "{{ cartItem.title }}"
+        class = "bookCoverImg">
+        <span class="left-spacer"></span>
+        <span class = "mat-captions">
+          {{ cartItem.title }}
+        </span>
+      </div>
+  
+      <div class = "dp-dilg-row">
+        <button mat-raised-button [tabIndex] = "0" color = "accent" (click) = "continueShopping()">
+          Continue Shopping
+        </button>
+      </div>
+      <br/>
+      <div class = "dp-dilg-row">
+        <button mat-raised-button [tabIndex] = "0" color = "primary" (click) = "goToCart()">
+          Go-To Cart
+        </button>
+      </div>
+  
+    </div>
+  </div>
+  

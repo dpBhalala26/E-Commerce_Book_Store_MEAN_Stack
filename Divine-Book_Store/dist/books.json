@@ -1,0 +1,130 @@
+[
+  {
+    "book_id": "b001",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "category": "DSA",
+    "price": 1299.0,
+    "img": "assets/static/books-images/b001.jpg"
+  },
+  {
+    "book_id": "b002",
+    "title": "Machine Learning using Python",
+    "author": "Dinesh Pradhan",
+    "category": "Data Science",
+    "price": 534.0,
+    "img": "assets/static/books-images/b002.jpg"
+  },
+  {
+    "book_id": "b003",
+    "title": "Python Crash Course",
+    "author": "Eric Metthes",
+    "category": "Programming Language",
+    "price": 1269.0,
+    "img": "assets/static/books-images/b003.jpg"
+  },
+  {
+    "book_id": "b004",
+    "title": "Blockchain Basics: A Non-Technical Introduction in 25 Steps",
+    "author": "Daniel Drescher",
+    "category": "Blockchain",
+    "price": 720.0,
+    "img": "assets/static/books-images/b004.jpg"
+  },
+  {
+    "book_id": "b005",
+    "title": "Art of Computer Programming",
+    "author": "Donald Knuth",
+    "category": "DSA",
+    "price": 2126.0,
+    "img": "assets/static/books-images/b005.jpg"
+  },
+  {
+    "book_id": "b006",
+    "title": "Data Science from Scratch",
+    "author": "Steven Cooper",
+    "category": "Data Science",
+    "price": 205.0,
+    "img": "assets/static/books-images/b006.jpg"
+  },
+  {
+    "book_id": "b007",
+    "title": "Core Python Programming",
+    "author": "R Nageswara Rao",
+    "category": "Programming Language",
+    "price": 661.0,
+    "img": "assets/static/books-images/b007.jpg"
+  },
+  {
+    "book_id": "b008",
+    "title": "The Truth Machine: The Blockchain and the Future of Everything",
+    "author": "Paul Vigna, Michael J. Casey",
+    "category": "Blockchain",
+    "price": 1093.0,
+    "img": "assets/static/books-images/b008.jpg"
+  },
+  {
+    "book_id": "b009",
+    "title": "Data Structures and Algorithms Made Easy",
+    "author": "Narasimha Karumanchi",
+    "category": "DSA",
+    "price": 650.0,
+    "img": "assets/static/books-images/b009.jpg"
+  },
+  {
+    "book_id": "b010",
+    "title": "Business Analytics: The Science of Data - Driven Decision Making",
+    "author": "U. Dinesh Kumar",
+    "category": "Data Science",
+    "price": 635.0,
+    "img": "assets/static/books-images/b010.jpg"
+  },
+  {
+    "book_id": "b011",
+    "title": "R for data science",
+    "author": "Hadley Wickham, Garrett Grolemund",
+    "category": "Programming Language",
+    "price": 2669.0,
+    "img": "assets/static/books-images/b011.jpg"
+  },
+  {
+    "book_id": "b012",
+    "title": "Basic Blockchain",
+    "author": "David Shrier",
+    "category": "Blockchain",
+    "price": 391.0,
+    "img": "assets/static/books-images/b012.jpg"
+  },
+  {
+    "book_id": "b013",
+    "title": "Data Structures & Algorithms in Java",
+    "author": "Goodrich, Tarassia, Goldwasser",
+    "category": "DSA",
+    "price": 779.0,
+    "img": "assets/static/books-images/b013.jpg"
+  },
+  {
+    "book_id": "b014",
+    "title": "Data Science for Business",
+    "author": "Foster Provost",
+    "category": "Data Science",
+    "price": 950.0,
+    "img": "assets/static/books-images/b014.jpg"
+  },
+  {
+    "book_id": "b015",
+    "title": "Basic Computation and Programming with C",
+    "author": "Subrata Saha, Subhodip Mukharjee",
+    "category": "Programming Language",
+    "price": 455.0,
+    "img": "assets/static/books-images/b015.jpg"
+  },
+  {
+    "book_id": "b016",
+    "title": "Blockchain Revolution",
+    "author": "Don Tapscott, Alex Tapscott",
+    "category": "Blockchain",
+    "price": 1262.0,
+    "img": "assets/static/books-images/b016.jpg"
+  }
+]
