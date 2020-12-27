@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+@import '~@angular/material/theming';
+
+$custom-typography: mat-typography-config(
+    $font-family: 'Exo'
+);
+
+body{
+    background-color: azure;
+    margin: 0;
+    dp-root * {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}
+
+.left-spacer{
+    margin-left: 2%;
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
+/*
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+*/

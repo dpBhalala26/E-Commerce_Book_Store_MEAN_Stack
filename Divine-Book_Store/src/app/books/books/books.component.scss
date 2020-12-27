@@ -1,0 +1,42 @@
+.example-card {
+  max-width: 400px;
+  margin: 20px;
+}
+
+.example-header-image {
+  background-size: cover;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.mat-table {
+  width: 100vw;
+}
+
+.mat-row {
+  height: auto;
+  border-top: 1px solid rgb(154, 18, 196);
+  border-bottom: 1px solid rgb(154, 18, 196);
+}
+
+.mat-cell {
+  padding: 6px 6px 6px 0;
+}
+
+.bookCoverImg {
+  height: 25em;
+  width: 16em;
+}
+
+.mat-progress-spinner {
+  margin: 10% auto;
+}
+
+@media all and (max-width: 699px) {
+  .bookCoverImg {
+    height: 14em;
+    width: 8em;
+  }
+}
